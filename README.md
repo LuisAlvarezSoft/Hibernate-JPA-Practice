@@ -1,3 +1,3 @@
-Trabajo realizado por Samuel Buitrago Osorio y Luis Miguel Alvarez Osorio
-infografia:
-(https://github.com/LuisAlvarezSoft/Hibernate-JPA-Practice/assets/132088673/e2452d2d-285e-4784-94db-0a5e2fdac630)
+Correcion de infografia autorizada por usted hoy, gracias :D
+Infografia:
+![image](https://github.com/LuisAlvarezSoft/Hibernate-JPA-Practice/assets/132088673/ea54e967-d176-48fe-87d2-df61a667493c)
